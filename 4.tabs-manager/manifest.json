@@ -8,6 +8,12 @@
     "48": "images/icon-48.png",
     "128": "images/icon-128.png"
   },
+  "host_permissions": [
+    "https://developer.chrome.com/*"
+  ],
+  "permissions": [
+    "tabGroups"
+  ],
   "action": {
     "default_popup": "popup.html"
   }
